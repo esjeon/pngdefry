@@ -2,9 +2,9 @@
 pngdefry
 ========
 
-Normalizing Apple-specific CgBI-fried PNG files. From <http://www.jongware.com/pngdefry.html>
+Normalizing Apple-specific CgBI-fried PNG files. Originally by [jongware](https://web.archive.org/web/20211120053356/http://www.jongware.com/pngdefry.html).
 
-Some more details on CgBI can be found here: <http://iphonedevwiki.net/index.php/CgBI_file_formata>
+Some more details on CgBI can be found here: <https://theapplewiki.com/wiki/PNG_CgBI_Format>
 
 Note that this repo is created as an archive.
 
